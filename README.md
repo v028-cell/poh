@@ -1,1 +1,2 @@
-register dot
+eregister dot
+erge rge
